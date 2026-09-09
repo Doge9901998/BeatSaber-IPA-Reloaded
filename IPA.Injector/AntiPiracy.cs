@@ -13,6 +13,7 @@ namespace IPA.Injector
             "desktop.ini",
             "ReShade.ini",
             "ReShadePreset.ini"
+            "ReShadeVR.ini"
         };
 
         public static bool IsInvalid(string path)
